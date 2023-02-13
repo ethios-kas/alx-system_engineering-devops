@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lRda | wc -l
